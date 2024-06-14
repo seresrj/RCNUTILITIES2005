@@ -1,0 +1,72 @@
+; rcnUtilities.def : Declares the module parameters for the DLL.
+
+LIBRARY      "rcnUtilities"
+DESCRIPTION  'rcnUtilities Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
+
+ 
+		julint
+		julyrm
+		increment_date_time_by_sec
+		time_dif
+		sysdatetime
+		ckdate
+		ckhhmm
+		cktime
+		show_time
+		gcd
+		file_exists
+		ConvertTime64ToHHMMSS
+		getdstr
+		show_switch
+		strlo
+		cklog
+		pars_arg
+		get_file_date
+		ADZERO
+		ADMAX_float
+		get_float
+		c_prompt_len
+		get_hhmm
+		get_yyyymmdd
+		get_short
+		get_double
+		get_long
+		get_unsigned_short
+		open_file_list
+		deref_filespec
+		?ConvertTime64ToYYYYMMDD@@YAH_J@Z
+		RemovePathFromFilename
+		SeekToSectionLn
+		GetNightFromFilename
+		nowhite
+	 
+		FileExists
+		GetIntFromBuffer
+		getExtention
+		lmin
+		GetStringFromBuffer
+		GetFloatFromBuffer
+		NotEmpty
+		IsNumberBetween
+		HHMMSS_ToString
+		strcmp_nocase		
+		InA
+		wait_key 
+		IsANumber
+		strncmp_nocase
+		switch_bytes_hp
+		s_to_hhmmss
+		DateTimeToString
+		StringToYYYYMMDDAndHHMMSS
+		StringTimeToHHMMSS
+		StringDateToYYYYMMDD
+		??0textFile@@QAE@XZ
+		?ReadLine@@YA_NPAU_iobuf@@QAD@Z
+		?increment_date_time_by_sec@@YAFPAJ0J@Z
+		?FileExists@@YA_NPBD@Z
+		?GetFileName@@YA_NQADFQAPAD@Z
+		?c_prompt_len@@YAFQAD0F@Z
+	 

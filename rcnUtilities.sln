@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rcnUtilities", "rcnUtilities.vcxproj", "{BDD37A0E-121C-4209-8BF2-5EF6009B6CDA}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = \u0022$/RCNUtilities\u0022,\u0020AFBAAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		SccProjectUniqueName1 = rcnUtilities.vcxproj
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD37A0E-121C-4209-8BF2-5EF6009B6CDA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BDD37A0E-121C-4209-8BF2-5EF6009B6CDA}.Debug|Win32.Build.0 = Debug|Win32
+		{BDD37A0E-121C-4209-8BF2-5EF6009B6CDA}.Release|Win32.ActiveCfg = Release|Win32
+		{BDD37A0E-121C-4209-8BF2-5EF6009B6CDA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
